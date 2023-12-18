@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.talentera.prod",
+      "sha256_cert_fingerprints": [
+        "0D:27:36:72:E8:5D:5F:36:23:14:7E:26:80:35:8F:02:2C:92:13:22:C9:F8:89:4D:57:D2:A0:71:6F:BB:D3:9D"
+      ]
+    }
+  }
+]
